@@ -8,19 +8,6 @@ Some of the existing packages in Java are −
 * **java.lang:** − bundles the fundamental classes
 * **java.io:** − classes for input , output functions are bundled in this package
 
-## Documentation
-
-You can find the React documentation [on the website](https://reactjs.org/docs).  
-It is divided into several sections:
-
-* [Quick Start](https://reactjs.org/docs/hello-world.html)
-* [Advanced Guides](https://reactjs.org/docs/jsx-in-depth.html)
-* [API Reference](https://reactjs.org/docs/react-api.html)
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [Where to Get Support](https://reactjs.org/community/support.html)
-* [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
-
-You can improve it by sending pull requests to [this repository](https://github.com/reactjs/reactjs.org).
 
 ## Examples of commands used for executing
 
